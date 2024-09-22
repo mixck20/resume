@@ -13,7 +13,7 @@ function App() {
         <div className="Content">
           <div className="Contact">
             <h1>CONTACT</h1>
-           <section> <a href="mailto:johnroyducut04@gmail.com">deloriamicko@gmail.com
+           <section> <a href="mailto:deloriamicko@gmail.com">deloriamicko@gmail.com
             <span className="material-icons gray-icon">email</span></a></section>
 
           <section> <a href="tel:+63 956 506 6990">+63 956 506 6990
@@ -55,7 +55,7 @@ function App() {
             <ul>
             <h3>Wireframe, Mockup (Figma)</h3>
               <li>Introduced to Figma, improving our understanding of user interaction and experience design.</li>
-                <li>Created a wireframe and mockup Personal Blog Website And Re-Designing the University of Assumption website using Figma.</li>
+                <li>Created a wireframe and mockup Personal Blog Website And Re-design the University of Assumption website using Figma.</li>
                 </ul>
 
             <h2>Sophomore College (2nd Year College)</h2>
